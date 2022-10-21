@@ -221,3 +221,13 @@ nav ul {
     height: 15rem;
     width: 15rem;
 }
+
+#language {
+    padding: 7px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 1px solid #aaa;
+    font-size: 13px;
+    width: 94px;
+    outline-style: none;
+}
